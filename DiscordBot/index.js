@@ -2,7 +2,7 @@
 const Discord = require('discord.js');
 var HashMap = require('hashmap');
 const bot = new Discord.Client();
-const token = 'NjkyODY5NDY4MTY2MDI5Mzg0.XoVrjA._aQAHfqK12xvJ3WFee7uu8Dw8_g';
+const token = 'NjkyODY5NDY4MTY2MDI5Mzg0.XoVyEg.J8aFGeO-AKR4N2uMqGF23ctnRD4';
 const PREFIX = "!";
 const emojiChannelID = '653442253234110469';
 fs = require('fs');
