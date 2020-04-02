@@ -1,0 +1,3 @@
+toString(){
+        return 'User ' + this.name + " has " + this.amountOfPosts + " posts, " + this. amountPinned + " pins, " + this.amountDeleted + " deleted, " + this.amountofW + " Ws, " + this.amountofL + " Ls." ;
+      }
