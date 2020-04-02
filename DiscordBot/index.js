@@ -53,6 +53,8 @@ class User{
         this.amountofL = x;
     }
 
+
+
 }
 
 bot.on("ready", async ()=>{
